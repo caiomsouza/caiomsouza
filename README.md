@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+I am a Senior Cloud Solution Architect and Data Scientist at Microsoft. I am also a PhD Candidate at Complutense University of Madrid. <BR><BR>
+
+Opinions are my own.<BR><BR>
+  
 <!--
 **caiomsouza/caiomsouza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
