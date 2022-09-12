@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a Senior Cloud Solution Architect and Data Scientist at Microsoft. I am also a PhD Candidate at Complutense University of Madrid. <BR>
+
 
 Opinions are my own.<BR><BR>
   
