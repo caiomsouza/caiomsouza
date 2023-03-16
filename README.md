@@ -1,5 +1,5 @@
 
-Dr. Caio Moreno is a senior cloud solution architect at Microsoft. He has experience in artificial intelligence, machine learning, big data, IoT, distributed systems, analytics, streaming, business intelligence, data integration and visualization. He holds a Ph.D. in Data Science from the Complutense University of Madrid. <BR><BR>
+Dr. Caio Moreno is a senior cloud solution architect at Microsoft. He has experience in artificial intelligence, machine learning, big data, IoT, distributed systems, analytics, streaming, business intelligence, data integration and visualization. He holds a Ph.D. in Data Science/Big Data from the Complutense University of Madrid. <BR><BR>
 
 
 Opinions are my own.<BR><BR>
